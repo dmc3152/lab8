@@ -23,7 +23,7 @@ router.get('/comment', function(req, res, next) {
     
       res.json(commentList); //Then send them  
     }
-  })
+  }).sort({ Name: 1})
 });
 
 module.exports = router;
