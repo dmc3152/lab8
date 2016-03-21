@@ -1,0 +1,25 @@
+nohup: ignoring input
+
+> comment@0.0.0 start /opt/bitnami/apache2/htdocs/comment
+> node ./bin/www
+
+[0mGET / [32m200 [0m6.635 ms - 1073[0m
+[0mGET /javascripts/app.js [36m304 [0m2.314 ms - -[0m
+[0mGET /comments [32m200 [0m17.480 ms - 226[0m
+[0mGET / [36m304 [0m0.609 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.287 ms - -[0m
+[0mGET /comments [36m304 [0m3.926 ms - -[0m
+[0mGET / [36m304 [0m0.286 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.378 ms - -[0m
+[0mGET /comments [36m304 [0m1.589 ms - -[0m
+[0mGET / [36m304 [0m0.312 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.289 ms - -[0m
+[0mGET /comments [36m304 [0m1.505 ms - -[0m
+[0mPOST /comments [32m200 [0m92.177 ms - 76[0m
+[0mGET / [36m304 [0m1.611 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.282 ms - -[0m
+[0mGET /comments [32m200 [0m2.192 ms - 303[0m
+[0mDELETE /comments/56f04937ff8fdf22099512a4/remove [32m200 [0m5.255 ms - 76[0m
+[0mGET / [36m304 [0m0.289 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m3.214 ms - -[0m
+[0mGET /comments [32m200 [0m1.401 ms - 226[0m
